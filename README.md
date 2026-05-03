@@ -22,7 +22,7 @@
 ## 🚀 Installation
 
 ```bash
-git clone github.com/ww2345/Advance-BruteForce-Wordlist-toolkit
+git clone https://github.com/ww2345/Advance-BruteForce-Wordlist-toolkit
 cd WordlistToolkit
 chmod +x wordlistGenraterToolkit.sh
 ```
