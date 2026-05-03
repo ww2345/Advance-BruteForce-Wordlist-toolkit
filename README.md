@@ -23,7 +23,7 @@
 
 ```bash
 git clone https://github.com/ww2345/Advance-BruteForce-Wordlist-toolkit
-cd WordlistToolkit
+cd Advance-BruteForce-Wordlist-toolkit
 chmod +x wordlistGenraterToolkit.sh
 ```
 
