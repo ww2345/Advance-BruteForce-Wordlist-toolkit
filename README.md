@@ -15,7 +15,7 @@
 * 📦 Merge multiple wordlists
 * 📘 Built-in usage guide with examples
 * 🔐 Basic integrity check (tamper detection)
-* 🎨 Clean and beginner-friendly interface
+* 🎨 Clean and beginner-friendly interface.
 
 ---
 
